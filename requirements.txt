@@ -1,4 +1,8 @@
-altair==5.5.0
+streamlit==1.32.0
+opencv-python-headless==4.9.0.80
+numpy==1.26.4
+Pillow==10.3.0
+streamlit-option-menu==0.3.6altair==5.5.0
 attrs==25.3.0
 blinker==1.9.0
 cachetools==6.2.0
@@ -15,8 +19,8 @@ jsonschema-specifications==2025.9.1
 MarkupSafe==3.0.2
 narwhals==2.4.0
 numpy==2.2.6
-opencv-python==4.12.0.88
-opencv-python-headless==4.12.0.88
+opencv-python==4.9.0.80
+opencv-python-headless==4.9.0.80
 packaging==25.0
 pandas==2.3.2
 pillow==11.3.0
